@@ -67,7 +67,7 @@
       {
         "id": 1,
         "specialty": "Macbook Pros",
-        "rate": "100",
+        "rate": 100,
         "userId": 4
       },
       {
@@ -81,6 +81,12 @@
         "specialty": "Printer Repair",
         "rate": 29.45,
         "userId": 6
+      },
+      {
+        "id": 4,
+        "specialty": "Phone Repair",
+        "rate": 100,
+        "userId": 7
       }
     ],
     "serviceTickets": [
